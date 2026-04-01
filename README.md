@@ -1,1 +1,0 @@
-# comp6001-assignment-1
